@@ -1,3 +1,3 @@
 # ghoman
 
-ghoman is an observation software for status using ping.
+ghoman is an observation software that has been **rewritten in Go from [deadman](https://github.com/upa/deadman)**.
